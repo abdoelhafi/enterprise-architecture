@@ -49,14 +49,12 @@
     <element xsi:type="archimate:CompositionRelationship" id="id-ab41f596550d46c0821bb8951d22ec90" source="id-a3ee4b98111f407aa8a804f6cfa4bae2" target="id-c5be9687117b47b3a4763a94a3c8b8f4"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-24138766511448569744cd49c1e1b423" source="id-480e4233b3d34074be24f646f4574f95" target="id-dc55087a06494001b4261adb0a7bfb6c"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-58bd6df960d740c3a32386004dec5b88" source="id-480e4233b3d34074be24f646f4574f95" target="id-a3ee4b98111f407aa8a804f6cfa4bae2"/>
-    <element xsi:type="archimate:ServingRelationship" id="id-b77ba394ffca4f1c8011897511dd42ce" source="id-31f7527cf3f24a9db6821295202c4322" target="id-82cac69dfd924d1d9d82f340d2e96151"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-963c4d6d0af64fbc9f0ccea91ff63fe9" source="id-31f7527cf3f24a9db6821295202c4322" target="id-afef8a4b781c4e88a3b908dd7215243c"/>
     <element xsi:type="archimate:ServingRelationship" id="id-c7360e6b658e408b9e7879ed4420a08f" source="id-91b9916314044c1b81ed11d2782f6b10" target="id-1b3ce7bc2ecc474ebb69bf457a0c91eb"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-ad4576888a6c49a9bcc92ac671f8e818" source="id-91b9916314044c1b81ed11d2782f6b10" target="id-c83c28b1290d42f89b2f080db3f88db9"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-325778c60b294b52880b32277f4b6031" source="id-91b9916314044c1b81ed11d2782f6b10" target="id-6ac6104d3cfd4af38cbe1a1b71201913"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-35543f7903e148b391e2b15d8a67c760" source="id-91b9916314044c1b81ed11d2782f6b10" target="id-c5be9687117b47b3a4763a94a3c8b8f4"/>
     <element xsi:type="archimate:TriggeringRelationship" id="id-91c7893fff944257834dbbd67d595eb4" source="id-91b9916314044c1b81ed11d2782f6b10" target="id-3492506f56264140a86971beecdedcdd"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-c5f62f5732014ccd9dfcf409c7fc525a" source="id-f7e10e37ecd34bdf8b32024cf480a726" target="id-64e42ee7e2a44fa080b930a60a33e142"/>
     <element xsi:type="archimate:AggregationRelationship" id="id-5e4facb52a2a42a7a4991b06b1aa8e5e" source="id-f7e10e37ecd34bdf8b32024cf480a726" target="id-afef8a4b781c4e88a3b908dd7215243c"/>
   </folder>
   <folder name="Views" id="id-7eb36f7cb5114cec87fe04335b880d0d" type="diagrams">
