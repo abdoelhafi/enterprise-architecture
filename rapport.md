@@ -11,10 +11,15 @@ langage ArchiMate appliquee a Agri comme example ainsi que ses deux extensions :
 ## 2 - Présentation de l'entreprise Agri
    ## 2.1 vision general sur l'entreprise Agri
 
+|Services|Procédés|Acteurs|
+|----------|----------|-------------|
+|Vente|Vente: répondre aux commandes des clients, Facturation , Livraison au clients|Client, équipe vente|
+|Achat|Achat, Facturation|Fournisseur, équipe achat|
+|Facturation|Facturation des achats, Facturation des commandes|équipe de facturation|
+|Comptabilité|Comptabilité|équipe de comptabilité|
+|Stock|gestion des stocks|équipe de stock|
+|Resource humain|gestion des resources humains|équipe de resources humains|
 
-   ### 2.1.1- Acteurs
-   ### 2.1.2- Services
-   ### 2.1.3- Processes
 
 
 ## 3 - Problematiques de l'entreprise Agri
