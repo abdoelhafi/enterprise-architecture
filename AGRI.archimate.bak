@@ -473,7 +473,6 @@
         <bounds x="1068" y="312" width="120" height="55"/>
       </child>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="Processus de modification de catalogue" id="id-9ce80f478b624a38b7bedbe3f9291766"/>
   </folder>
   <purpose>Ce projet représente l'architecture de l'entreprise AGRI.</purpose>
 </archimate:model>
