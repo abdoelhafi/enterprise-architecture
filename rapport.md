@@ -54,10 +54,10 @@ L'architecture d'entreprise (AE) est une discipline qui permet de gérer les app
  * Le premier poblèmes qu'on peut voire clairement est le problème de gaspillage des papiers. Beacoup de documents se partagent en beaucoup d'exemplaire entre les différents services. Ceci demeure une méthode fastidieuse pour le traitement et le stockage des données. En plus parmis ces documents on voit que le bon de commande qui doit être rempli par le service de vente est une solution non efficace. Il est mieux de penser à des solutions de genre *serve yourself*. Car d'une part, le remplissage des commandes par des agents est un gaspiallge des papiers et des ressources humains, et d'autre part ceci peut donner une experience non-satisfaisante pour le client.
  * Sur la même longueur d'onde, on peur remarquer que les données qui bascules entre les différents services imposent plusieurs problèmes car la données est par tout et on doit passer parfois par plusieurs services avant d'obtenir l'information en question. Ceci implique qu'il faut aussi repenser l'architecture des services de l'entreprise pour en bien tirer profit.
  * Sur un plus grand échelle, l'information par fois prendre un temps pour faire la mise-à-jour. À l'instar de le journal des ventes qui nécessite un délait de 24 heurs avant qui soit mise-à-jour.
- 
+
 Les problèmes pour l'innovation:
  * Agri générer plusieurs données sur ces clients et ventes qui ne sont pas stockée puis utilisée pour les analyser et en tirer des conclusions qui peuvent aider à prendre des discisions stratégiques. Par exemple Agri peut penser a utilisé ses données pour augmenter la vente d’un tel produit ou pour des fins de marketing et publicitaires .  
- 
+
 
 ## 3 - Motivations pour la transformation digitale
 
@@ -70,20 +70,21 @@ Les problèmes pour l'innovation:
    ### 4.1- Mise en œuvre et migration
    Les problématiques citées précédemment nous pousse à repenser à des solutions stratégiques qui peuvent améliorer la chaine de vente de l’entreprise Agri. En effet l’intégration d'un système d’information pourra être une partie intégrante de la stratégie de l’entreprise qui permettra de surmonter ses difficultés pour gérer efficacement la traçabilité entre les briques d’architecture du système et les besoins exprimés à l’origine du projet; et encore plus à justifier des décisions d’architectures vis-à-vis de ces attentes. 
    En prenant en considération des améliorions au niveau de l’architecture d’Agri, celle-ci dorénavant possède un GPS qui lui guide dans ses choix au fur et à mesure des différentes étapes à traverser, en réduisant l’incertitude et en fournissant les informations nécessaires à la bonne évaluation des différentes possibilités. 
-   
+
    Au niveau métier, cette amélioration va permettre à l’entreprises de définir sa stratégie et de clarifier sa vision, mission et objectifs grâce à l’évaluation des facteurs de changements tel que des facteurs métiers ou de régulation. Elle permet ensuite de planifier les capacités métiers nécessaires pour atteindre les objectifs définis, et de définir une stratégie et une tactique pour chaque objectif. 
    Une fois les capacités métiers planifiés, les directions informatiques vont pouvoir planifier les fonctionnalités IT, les applications, les technologies et l’infrastructure nécessaires pour pouvoir supporter les métiers. 
-   
+
    L’architecture d’entreprise améliorée fournit ainsi à Agri des feuilles de route métier et IT claires qui laissent peu de place à l’incertitude. Couplée à la gestion des risques métier et IT, les améliorations qu’on va présenter permet de réduire les risques liés à toute transformation en évaluant leur impact et leur probabilité, et en mettant en place des plans d’actions visant à réduire ces risques. 
-   
+
    Le diagramme suivant propose comment nous pouvant mener à bien cette Migration dans l'architecture de l'entreprise Agri. 
 
 ![Migration pour la nouvelle architecture](assets/id-1665e6d9cf6a447d9cd191be7c8da8e3.png)
    ### 4.2- Architecture de l'entreprise cible
-   
+
    > Dans la partie suivante on va voire comment on peut bien améliorer le métier de l'entreprise Agri en innovant son architecture.
-   ### 4.2.1- Vision d'adoption du CRM chez Agri
    
+   ### 4.2.1- Vision d'adoption du CRM chez Agri
+
    Agri peut penser à intégrer un CRM qui peut enregistrer et gérer chaque contact et échange avec chaque client existant ou potentiel, sauvegarder toutes leurs préférences, et suivre toutes leurs activités. Par CRM, on entend soit la stratégie globale visant à mieux gérer ses relations avec le client et dont l’objectif est d'augmenter les ventes et les profits, en fidélisant les clients sur le long terme et en donnant priorité au client pour lui offrir une expérience entièrement personnalisée et fondamentalement meilleure ; soit la technologie qui permet de gérer ces relations, en conservant et en organisant sur une seule plateforme les données concernant chaque client, client potentiel ou lead et en assurant le suivi de tous les échanges ou contacts entre l’entreprise et ces clients.  
 
 Le diagramme suivant présente comment on peut penser à l'intégration du CRM au sein de Agri. 
@@ -91,6 +92,7 @@ Le diagramme suivant présente comment on peut penser à l'intégration du CRM a
    ![Vision CRM](assets/id-ce6e1329804e4403a26757a131ad5358.png)
    ### 4.2.2- Vision d'adoption d'un ERP chez Agri
 
+Une autre amélioration qu' Agri peut penser à mettre en œuvre est de d'intégrer un ERP. Un ERP est une solution logicielle visant à unifier le système d’information d’une entreprise en intégrant les différentes composantes fonctionnelles autour notamment d’une base de données unique. D’autre mot, un ERP est un système complexe qui demande du temps à appréhender et mettre en place mais qui peut être extrêmement profitable à la rentabilité d’une entreprise.  Le schéma suivant présente notre vision sur comment Agri peut profiter de la mise en place d'une solution ERP.
 
    ![Vision ERP](assets/id-81b3dfb862e64da1b0d0ff04d309d954.png)
 
